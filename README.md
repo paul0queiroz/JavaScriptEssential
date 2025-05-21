@@ -70,4 +70,4 @@ Neste primeiro módulo, você será introduzido aos conceitos fundamentais do Ja
 
 ---
 
-Se desejar, posso ajudá-lo a criar um repositório no GitHub com este README e exemplos de código correspondentes a cada seção. Gostaria de prosseguir com isso?
+
